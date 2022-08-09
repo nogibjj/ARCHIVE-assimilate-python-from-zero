@@ -1,6 +1,10 @@
 # assimilate-python-from-zero
 A From Zero Introduction to Python
 
+## Day 2
+
+Strings:  
+
 ## Day 1
 
 * [Official Python Documentation](https://docs.python.org/3/)
