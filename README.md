@@ -12,7 +12,7 @@ Control Flow
 
 ## Day 2
 
-Strings:  
+[Strings](https://github.com/noahgift/assimilate-python-from-zero/blob/main/assimilate_python_day2_strings.ipynb)  
 
 ## Day 1
 
