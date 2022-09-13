@@ -20,7 +20,7 @@ def random_fruit_command(count):
         ./cli.py randofruit --count 5
     """
 
-    for i in range(count):
+    for _ in range(count):
         #randomly print a new colored fruit
         colors = ["red", "green", "yellow", "blue", "magenta", "cyan", "white"]
         click.secho(next(random_fruit()), fg=choice(colors))
