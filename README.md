@@ -1,6 +1,12 @@
 # assimilate-python-from-zero
 A From Zero Introduction to Python
 
+## Day 5:
+
+1. Walk a filesytem and find a pattern
+2. Run a shell command using Python
+3. Tie 1 and 2 together
+
 
 ## Day 4:
 
